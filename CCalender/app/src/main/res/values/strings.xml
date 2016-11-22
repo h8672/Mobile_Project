@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Christmas Calender</string>
+    <!--Frontpage-->
+    <string name="create_calender">Create Calender</string>
+    <string name="load_calender">Load Calender</string>
+    <string name="no_calender">Calender not selected</string>
+    <!--Buttons-->
+    <string name="ok_button_text">OK</string>
+    <string name="yes_button_text">Yes</string>
+    <string name="cancel_button_text">Cancel</string>
+    <!--Create calender-->
+    <string name="name_calender_title">Calender name</string>
+    <!--Select day type-->
+    <string name="day_type_title">Select day type</string>
+    <string name="day_type_default">Label</string>
+    <!--Day type message-->
+    <string name="day_type_message">Message</string>
+    <string name="day_type_message_default">Message for Day</string>
+    <!--Day type link-->
+    <string name="day_type_link">Link</string>
+    <string name="day_type_link_default">http://</string>
+    <!--Day type location-->
+    <string name="day_type_location">Geo location</string>
+    <string name="day_type_location_latitude_default">Latitude</string>
+    <string name="day_type_location_longitude_default">Longitude</string>
+    <string name="day_type_location_usertip">You can get location information with your Google Maps application by holding position down.</string>
+    <!--Response messages-->
+    <string name="day_type_response_save">Calender has been saved!</string>
+    <string name="day_type_response_nosave">Calender save was forgotten!</string>
+    <string name="load_calender_response_default"> has been selected!</string>
+</resources>

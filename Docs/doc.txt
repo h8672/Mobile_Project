@@ -1,4 +1,4 @@
-Mobile Project aihe!!!
+﻿Mobile Project aihe!!!
 
 Kansi
 Joulu Kalenteri -sovellus
@@ -22,6 +22,8 @@ Haluan tuttuni katsovan hänelle jättämiäni videoita, joissa jotakin kerrotaa
 Työhön Käytetty aika / Usage workflow
 Suunnitelman suunnittelu n. 4h
 Mockup n. 2h
+Projekti:
+ - 2h 22.11.2016
 
 Mockup
 
