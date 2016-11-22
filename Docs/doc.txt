@@ -1,0 +1,45 @@
+Mobile Project aihe!!!
+
+Kansi
+Joulu Kalenteri -sovellus
+Aloitettu 21.11.2016
+
+Sisältö
+Sovellus sisältää perinteisen joulukalenterin tavalla 24 luukkua, jotka toinen henkilö täyttää omalla sovelluksellaan ja jakaa sen xml tiedostona toiselle. Luukut voivat sisältää viestin, linkin videoon tai nettisivulle tai kartan koordinaattiin.
+
+Introduction
+Joulu kalenteri sisältää luukkuja joulukuun ensimmäisestä päivästä alkaen 24 aaton päivään asti. Tarkoituksena on kestää kunnes kyseinen juhla alkaa ja hillitä itsensä tekemisellä, jotta piilotettuja paketteja ei lähtisi etsimään ennen juhlaa.
+
+Tavoitteet
+Antaa ihmisille uusi tapa nauttia joulun odotuksesta tekemällä toiselle oma kalenterin lokeron sisus.
+
+Use Caset
+Haluan antaa tutulleni erikoisen kalenterin eri juhla paikkoihin
+Haluan antaa ystävälleni tavan juhlia joulua, joka ei vie paljon rahaa, mutta tuo paljon iloa
+Haluan antaa tutulleni kutsun juhlaan, mutta en halua hänen valmistautuvan siihen ja siten stressata häntä lomallaan
+Haluan tuttuni katsovan hänelle jättämiäni videoita, joissa jotakin kerrotaan tai tapahtuu.
+
+Työhön Käytetty aika / Usage workflow
+Suunnitelman suunnittelu n. 4h
+Mockup n. 2h
+
+Mockup
+
+OOP / Object Oriented Programming
+UML
+
+Database planning / tietokanta suunnitelma = XML tietokanta
+https://developer.android.com/training/basics/network-ops/xml.html
+
+Backend / Koodi joka tulkkaa tietoa, bisneslogiikka
+Ei ole, kaikki tulee xml tiedostosta
+
+Workload / Työmäärä henkilöllä
+Kaikki yksin
+
+Time planning in weeks / Viikottainen suunnitelma
+Suunnittelu
+Mockup, UI
+
+
+etc...
